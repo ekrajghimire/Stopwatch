@@ -1,4 +1,4 @@
 # Stopwatch
 
 ## Basic Project
-# HTML, CSS, JS
+## HTML, CSS, JS
